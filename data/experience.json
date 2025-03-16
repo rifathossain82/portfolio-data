@@ -1,0 +1,25 @@
+{
+    "experience_title": "Where I've Worked",
+    "experiences": [
+      {
+        "title": "Engineer",
+        "company": "Upstatement",
+        "duration": "May 2018 - Present",
+        "description": [
+          "Write modern, performant, maintainable code for a diverse array of client and internal projects",
+          "Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify",
+          "Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis"
+        ]
+      },
+      {
+        "title": "Studio Developer",
+        "company": "Scout",
+        "duration": "January - April 2018",
+        "description": [
+          "Worked with a team of three designers to build a marketing website and e-commerce platform for blistabloc, an ambitious startup originating from Northeastern",
+          "Helped solidify a brand direction for blistabloc that spans both packaging and web",
+          "Interfaced with clients on a weekly basis, providing technological expertise"
+        ]
+      }
+    ]
+  }

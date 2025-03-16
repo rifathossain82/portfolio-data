@@ -1,7 +1,65 @@
 {
-    "name": "Rifat Hossain",
-    "designation": "Flutter Developer",
-    "about": "I specialize in cross-platform app development...",
-    "skills": ["Flutter", "Dart", "GetX", "Bloc", "Firebase"]
+  "app_name": "Brittany Chiang",
+  "gmail_address": "officialrifat82@gmail.com",
+  "dark_mode_logo": "assets/logo_1.png",
+  "light_mode_logo": "assets/logo_2.png",
+  "navItems": [
+    { "index": "00.", "name": "Home" },
+    { "index": "01.", "name": "About" },
+    { "index": "02.", "name": "Experience" },
+    { "index": "03.", "name": "Work" },
+    { "index": "04.", "name": "Contact" }
+  ],
+  "social_links": {
+    "fb_url": "https://www.facebook.com/rh.rifat.33633",
+    "twitter_url": "https://twitter.com/Rifatho25073502",
+    "instagram_url": "https://www.instagram.com/rh_rifat220/",
+    "linkedin_url": "https://www.linkedin.com/in/rifat-hossain-66811b201/",
+    "github_url": "https://github.com/rifathossain82",
+    "fiverr_url": "https://www.fiverr.com/rifathossain82?up_rollout=true",
+    "youTube_url": "https://www.youtube.com/channel/UCHQjehNirRNYmWtYK0rh9jg"
+  },
+  "about_me": {
+    "title": "About me",
+    "description": [
+      "Hello! My name is Brittany and I enjoy creating things that live on the internet. My interest in web development started back in 2012 when I decided to try editing custom Tumblr themes — turns out hacking together a custom reblog button taught me a lot about HTML & CSS!",
+      {
+        "text": "Fast-forward to today, and I’ve had the privilege of working at",
+        "links": [
+          { "text": "an advertising agency", "url": "https://upstatement.com" },
+          { "text": "a start-up", "url": "https://upstatement.com" },
+          { "text": "a huge corporation", "url": "https://upstatement.com" }
+        ]
+      },
+      {
+        "text": "and",
+        "links": [
+          { "text": "a student-led design studio", "url": "https://upstatement.com" }
+        ]
+      },
+      {
+        "text": "My main focus these days is building accessible, inclusive products and digital experiences at",
+        "links": [
+          { "text": "Upstatement", "url": "https://upstatement.com" }
+        ]
+      },
+      "for a variety of clients.",
+      {
+        "text": "I also recently",
+        "links": [
+          { "text": "launched a course", "url": "https://upstatement.com" }
+        ]
+      },
+      "that covers everything you need to build a web app with the Spotify API using Node & React.",
+      "Here are a few technologies I’ve been working with recently:"
+    ],
+    "technologies": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "TypeScript",
+      "Eleventy",
+      "WordPress"
+    ]
   }
-  
+}

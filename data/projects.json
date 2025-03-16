@@ -1,0 +1,49 @@
+{
+    "built_headerTitle": "Some Things I've Built",
+    "projects": [
+      {
+        "name": "Halcyon Theme",
+        "description": "A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm",
+        "platforms": "VS Code   Sublime Text   Atom   iTerm2   Hyper",
+        "url": "https://upstatement.com",
+        "github_url": "https://upstatement.com",
+        "extra_link": "https://upstatement.com"
+      },
+      {
+        "name": "Spotify Profile",
+        "description": "A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.",
+        "platforms": "React   Styled Components   Express   Spotify API   Heroku",
+        "url": "https://upstatement.com",
+        "github_url": "https://upstatement.com",
+        "extra_link": "https://upstatement.com"
+      },
+      {
+        "name": "Build a Spotify Connected App",
+        "description": "Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had. Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.",
+        "platforms": "React   Styled Components   Express   Spotify API",
+        "url": "https://upstatement.com",
+        "github_url": "https://upstatement.com",
+        "extra_link": "https://upstatement.com"
+      }
+    ],
+    "other_projects": {
+      "title": "Other Noteworthy Projects",
+      "archive_buttonName": "view the archive",
+      "projects": [
+        {
+          "name": "Integrating Algolia Search with WordPress Multisite",
+          "description": "Building a custom multisite compatible WordPress plugin to build global search with Algolia",
+          "platforms": "Algolia   Wordpress   PHP",
+          "url": "https://upstatement.com",
+          "github_url": "https://upstatement.com"
+        },
+        {
+          "name": "Time to Have More Fun",
+          "description": "A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS",
+          "platforms": "Next.js   Tailwind CSS   Firebase",
+          "url": "https://upstatement.com",
+          "github_url": "https://upstatement.com"
+        }
+      ]
+    }
+  }

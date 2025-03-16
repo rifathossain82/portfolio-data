@@ -1,0 +1,109 @@
+{
+    "archives": [
+      {
+        "year": "2021",
+        "project_name": "Koala Health",
+        "company": "Upstatement",
+        "technologies": "Next.js·TypeScript·Redux Toolkit·Stripe·Algolia·Firebase Auth·Formik·Yup·Vercel",
+        "url": "https://upstatement.com"
+      },
+      {
+        "year": "2021",
+        "project_name": "Philadelphia Inquirer Sports Scoreboards",
+        "company": "Upstatement",
+        "technologies": "Next.js·TypeScript·Redux Toolkit·Stripe·Algolia·Firebase Auth·Formik·Yup·Vercel",
+        "url": "https://upstatement.com"
+      },
+      {
+        "year": "2021",
+        "project_name": "Vanderbilt Design System",
+        "company": "Upstatement",
+        "technologies": "Twig·Puppy·JS",
+        "url": "https://upstatement.com"
+      },
+      {
+        "year": "2021",
+        "project_name": "Michelle Wu for Boston Grassroots Toolkit",
+        "company": "Upstatement",
+        "technologies": "Gatsby·Styled Components",
+        "url": "https://upstatement.com"
+      },
+      {
+        "year": "2021",
+        "project_name": "The 19th News",
+        "company": "Upstatement",
+        "technologies": "Next.js·TypeScript·Redux Toolkit·Stripe·Algolia·Firebase Auth·Formik·Yup·Vercel",
+        "url": "https://upstatement.com"
+      },
+      {
+        "year": "2021",
+        "project_name": "Northeastern CSSH",
+        "company": "Upstatement",
+        "technologies": "Next.js·TypeScript·Redux Toolkit·Stripe·Algolia·Firebase Auth·Formik·Yup·Vercel",
+        "url": "https://upstatement.com"
+      },
+      {
+        "year": "2020",
+        "project_name": "Integrating Algolia Search with WordPress Multisite",
+        "company": "Upstatement",
+        "technologies": "Next.js·TypeScript·Redux Toolkit·Stripe·Algolia·Firebase Auth·Formik·Yup·Vercel",
+        "url": "https://upstatement.com"
+      },
+      {
+        "year": "2020",
+        "project_name": "Time to Have More Fun",
+        "company": "___",
+        "technologies": "Next.js·TypeScript·Redux Toolkit·Stripe·Algolia·Firebase Auth·Formik·Yup·Vercel",
+        "url": "https://upstatement.com"
+      },
+      {
+        "year": "2020",
+        "project_name": "Upstatement.com",
+        "company": "Upstatement",
+        "technologies": "Next.js·TypeScript·Redux Toolkit·Stripe·Algolia·Firebase Auth·Formik·Yup·Vercel",
+        "url": "https://upstatement.com"
+      },
+      {
+        "year": "2020",
+        "project_name": "Building a Headless Mobile App CMS From Scratch",
+        "company": "Upstatement",
+        "technologies": "Next.js·TypeScript·Redux Toolkit·Stripe·Algolia·Firebase Auth·Formik·Yup·Vercel",
+        "url": "https://upstatement.com"
+      },
+      {
+        "year": "2019",
+        "project_name": "Moms Demand Action Mobile App",
+        "company": "Upstatement",
+        "technologies": "Next.js·TypeScript·Redux Toolkit·Stripe·Algolia·Firebase Auth·Formik·Yup·Vercel",
+        "url": "https://upstatement.com"
+      },
+      {
+        "year": "2019",
+        "project_name": "OctoProfile",
+        "company": "___",
+        "technologies": "Next.js·TypeScript·Redux Toolkit·Stripe·Algolia·Firebase Auth·Formik·Yup·Vercel",
+        "url": "https://upstatement.com"
+      },
+      {
+        "year": "2020",
+        "project_name": "Google Keep Clone",
+        "company": "Upstatement",
+        "technologies": "Next.js·TypeScript·Redux Toolkit·Stripe·Algolia·Firebase Auth·Formik·Yup·Vercel",
+        "url": "https://upstatement.com"
+      },
+      {
+        "year": "2019",
+        "project_name": "Spotify Profile",
+        "company": "Upstatement",
+        "technologies": "Next.js·TypeScript·Redux Toolkit·Stripe·Algolia·Firebase Auth·Formik·Yup·Vercel",
+        "url": "https://upstatement.com"
+      },
+      {
+        "year": "2019",
+        "project_name": "Devoted Health",
+        "company": "Upstatement",
+        "technologies": "Next.js·TypeScript·Redux Toolkit·Stripe·Algolia·Firebase Auth·Formik·Yup·Vercel",
+        "url": "https://upstatement.com"
+      }
+    ]
+  }
