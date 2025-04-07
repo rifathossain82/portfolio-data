@@ -1,9 +1,10 @@
 {
-    "experience_title": "Where I've Worked",
+    "title": "Where I've Worked",
     "experiences": [
       {
         "title": "Engineer",
         "company": "Upstatement",
+        "company_url": "Upstatement",
         "duration": "May 2018 - Present",
         "description": [
           "Write modern, performant, maintainable code for a diverse array of client and internal projects",
@@ -14,6 +15,7 @@
       {
         "title": "Studio Developer",
         "company": "Scout",
+        "company_url": "Upstatement",
         "duration": "January - April 2018",
         "description": [
           "Worked with a team of three designers to build a marketing website and e-commerce platform for blistabloc, an ambitious startup originating from Northeastern",

@@ -1,0 +1,18 @@
+{
+  "intro_line": "Hi, my name is",
+  "name": "Rifat Hosasin",
+  "email": "appdev.rifathossain@gmail.com",
+  "short_des": "I build things for the web.",
+  "long_des": "I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products at ",
+  "checkout_btn_name": "Checkout my github",
+  "checkout_btn_link": "Checkout link",
+  "social_links": {
+    "facebook": "https://www.facebook.com/rh.rifat.33633",
+    "twitter": "https://twitter.com/Rifatho25073502",
+    "instagram": "https://www.instagram.com/rh_rifat220/",
+    "linkedin": "https://www.linkedin.com/in/rifat-hossain-66811b201/",
+    "github": "https://github.com/rifathossain82",
+    "fiverr": "https://www.fiverr.com/rifathossain82?up_rollout=true",
+    "youTube": "https://www.youtube.com/channel/UCHQjehNirRNYmWtYK0rh9jg"
+  }
+}
