@@ -1,27 +1,33 @@
 {
-    "title": "Where I've Worked",
-    "experiences": [
-      {
-        "title": "Engineer",
-        "company": "Upstatement",
-        "company_url": "Upstatement",
-        "duration": "May 2018 - Present",
-        "description": [
-          "Write modern, performant, maintainable code for a diverse array of client and internal projects",
-          "Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify",
-          "Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis"
-        ]
-      },
-      {
-        "title": "Studio Developer",
-        "company": "Scout",
-        "company_url": "Upstatement",
-        "duration": "January - April 2018",
-        "description": [
-          "Worked with a team of three designers to build a marketing website and e-commerce platform for blistabloc, an ambitious startup originating from Northeastern",
-          "Helped solidify a brand direction for blistabloc that spans both packaging and web",
-          "Interfaced with clients on a weekly basis, providing technological expertise"
-        ]
-      }
-    ]
-  }
+  "title": "Where I've Worked",
+  "experiences": [
+    {
+      "title": "Software Engineer (Flutter)",
+      "company": "Akaar IT Ltd.",
+      "company_url": "https://akaarit.com/",
+      "duration": "November 2022 - Present",
+      "location": "Uttara, Dhaka",
+      "description": [
+        "Led the development of diverse applications including E-commerce, Courier, Barber Shop, POS, and VPN solutions.",
+        "Designed scalable apps for large user bases.",
+        "Implemented GetX and Bloc state management for enhanced functionality.",
+        "Ensured Clean Architecture principles for maintainability.",
+        "Integrated key features like Push Notifications, VPN, Pixel-Perfect UI, AR-VR, Google Maps, and Payment Gateways."
+      ]
+    },
+    {
+      "title": "Junior Flutter Developer",
+      "company": "Web Point Ltd.",
+      "company_url": "https://www.linkedin.com/company/webpointltd/",
+      "duration": "March 2022 - October 2022",
+      "location": "Chittagong",
+      "description": [
+        "Designed and developed Point of Sale (POS) application.",
+        "Developed school management systems for students and guardians.",
+        "Implemented MVC and MVVM architectures in app design.",
+        "Utilized GetX State Management for efficient app functionality.",
+        "Integrated features like Bulk SMS, Invoice Printing, and Social Login (Facebook, Google, Twitter)."
+      ]
+    }
+  ]
+}
