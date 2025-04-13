@@ -9,25 +9,25 @@
         "Flutter",
         "Bloc",
         "REST API's",
-        "Clear Architecture"
+        "Clean Architecture"
       ],
       "image": "https://i.ibb.co.com/wFNZcghr/1.png",
       "source_code_url": "",
       "live_url": "https://play.google.com/store/apps/details?id=com.amarsolution.app"
     },
     {
-      "title": "Spotify Profile",
-      "description": "A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.",
+      "title": "NextGen VPN and Multimedia",
+      "description": "NextGen is an all-in-one app with a built-in browser, free VPN, internet speed tester, and network info—designed to enhance your digital experience.",
       "platforms": [
-        "VS Code",
-        "Sublime Text",
-        "Atom",
-        "iTerm2 ",
-        " Hyper"
+        "Dart FFI",
+        "Flutter Webview",
+        "GetX",
+        "Hive",
+        "VPN"
       ],
-      "image": "https://i.ibb.co.com/3yf0Shg0/ss2.png",
-      "source_code_url": "https://upstatement.com",
-      "live_url": "https://upstatement.com"
+      "image": "https://i.ibb.co.com/6RMvVbZn/Next-Gen-VPN.png",
+      "source_code_url": "",
+      "live_url": "https://play.google.com/store/apps/details?id=com.nextgen_multimedia.app&hl=en"
     },
     {
       "title": "Build a Spotify Connected App",
