@@ -5,8 +5,8 @@
       "title": "AmarSolution POS App",
       "description": "AmarSolution is a fast, cross-platform POS app for managing sales, stock, and more across fashion, electronics, pharmacy, and other businesses.",
       "platforms": [
-        "Dart",
-        "Flutter",
+        "Dart FFI",
+        "Blue Thermal Printer",
         "Bloc",
         "REST API's",
         "Clean Architecture"
@@ -30,13 +30,13 @@
       "live_url": "https://play.google.com/store/apps/details?id=com.nextgen_multimedia.app&hl=en"
     },
     {
-      "title": "Build DokanBook: Sales & Expense App",
-      "description": "DokanBook helps manage sales, expenses, and contacts with ease. Track cash flow, send auto messages, and stay organized—all in one app.",
+      "title": "DokanBook: Sales & Expense App",
+      "description": "DokanBook simplifies sales, expense, and contact management. Track cash flow, send auto messages, and stay organized—all in one app.",
       "platforms": [
         "Firebase",
         "FCM Push Notification",
         "GetX",
-        "Getx Storage"
+        "GetX Storage"
       ],
       "image": "https://i.ibb.co.com/9H1dfc7C/dukan-book.png",
       "source_code_url": "",
