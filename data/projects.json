@@ -30,15 +30,17 @@
       "live_url": "https://play.google.com/store/apps/details?id=com.nextgen_multimedia.app&hl=en"
     },
     {
-      "title": "Build a Spotify Connected App",
-      "description": "Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had. Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.",
+      "title": "Build DokanBook: Sales & Expense App",
+      "description": "DokanBook helps manage sales, expenses, and contacts with ease. Track cash flow, send auto messages, and stay organized—all in one app.",
       "platforms": [
-        "VS Code",
-        "Sublime Text"
+        "Firebase",
+        "FCM Push Notification",
+        "GetX",
+        "Getx Storage"
       ],
-      "image": "https://i.ibb.co.com/cKXqtw72/ss3.png",
-      "source_code_url": "https://upstatement.com",
-      "live_url": "https://upstatement.com"
+      "image": "https://i.ibb.co.com/9H1dfc7C/dukan-book.png",
+      "source_code_url": "",
+      "live_url": "https://play.google.com/store/apps/details?id=com.dokanbook.app"
     }
   ],
   "other_projects": {
