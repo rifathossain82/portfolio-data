@@ -48,124 +48,130 @@
     "archive_buttonName": "view the archive",
     "projects": [
       {
-        "title": "Integrating Algolia Search with WordPress Multisite",
-        "description": "Building a custom multisite compatible WordPress plugin to build global search with Algolia",
+        "title": "Integrating Payment Gateway in Tarika Tani App",
+        "description": "Tarika Tani is a Flutter-based eCommerce app offering fashion, electronics & more with secure payments, real-time tracking & a smooth, user-friendly experience.",
         "platforms": [
-          "VS Code",
-          "Sublime Text"
+          "Dart",
+          "Flutter",
+          "flutter_bkash",
+          "flutter_sslcommerz"
         ],
-        "source_code_url": "https://upstatement.com",
-        "live_url": "https://upstatement.com"
+        "source_code_url": "",
+        "live_url": "https://play.google.com/store/apps/details?id=com.tarikatani.app"
       },
       {
-        "title": "Time to Have More Fun",
-        "description": "A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS",
+        "title": "Echem - ইকেম",
+        "description": "Ecommerce app for chemical business",
         "platforms": [
-          "VS Code",
-          "Sublime Text"
+          "Bloc",
+          "Sqflite",
+          "flutter_sslcommerz",
+          "Firebase"
         ],
-        "source_code_url": "https://upstatement.com",
-        "live_url": "https://upstatement.com"
+        "source_code_url": "https://private-user-images.githubusercontent.com/88751768/239805155-86e331c9-d73c-4dd7-b8c1-fb65d54939c7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ2ODg0OTUsIm5iZiI6MTc0NDY4ODE5NSwicGF0aCI6Ii84ODc1MTc2OC8yMzk4MDUxNTUtODZlMzMxYzktZDczYy00ZGQ3LWI4YzEtZmI2NWQ1NDkzOWM3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDE1VDAzMzYzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVjMDJiOGI0MThiZTE1YjEyODk2MThjYmRlMGU0NGZmYjY4Y2I5ZGYyMTUxOGZjNGZkMzkwYjljNDM4NDI0YmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2QcNFgiOBmkkksp5FZ5RBLTOAtn59h9StycWmpnMIZY",
+        "live_url": "https://play.google.com/store/apps/details?id=echem.com.bd"
       },
       {
-        "title": "Integrating Algolia Search with WordPress Multisite",
-        "description": "Building a custom multisite compatible WordPress plugin to build global search with Algolia",
+        "title": "Family Trust",
+        "description": "Family Trust is a smart eCommerce built with Flutter, Laravel and Firebase",
         "platforms": [
-          "VS Code",
-          "Sublime Text"
+          "REST API's",
+          "Firebase",
+          "Push Notification",
+          "Flutter HTML",
+          "Persistent Bottom Navigation"
         ],
-        "source_code_url": "https://upstatement.com",
-        "live_url": "https://upstatement.com"
+        "source_code_url": "",
+        "live_url": "https://play.google.com/store/apps/details?id=com.familytrust.com"
       },
       {
-        "title": "Time to Have More Fun",
-        "description": "A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS",
+        "title": "Rokomari: UI Clone",
+        "description": "A UI clone of Rokomari, built with Flutter to showcase clean design and smooth user experience.",
         "platforms": [
-          "VS Code",
-          "Sublime Text"
+          "Dart",
+          "Flutter"
         ],
-        "source_code_url": "https://upstatement.com",
-        "live_url": "https://upstatement.com"
+        "source_code_url": "https://gitlab.com/rifathossain82/BookStore",
+        "live_url": ""
       },
       {
-        "title": "Integrating Algolia Search with WordPress Multisite",
-        "description": "Building a custom multisite compatible WordPress plugin to build global search with Algolia",
+        "title": "Timeline Manager",
+        "description": "It's a Flutter UI app to manage thoughts, showcasing pixel-perfect design and clean, scalable code.",
         "platforms": [
-          "VS Code",
-          "Sublime Text"
+          "Dart",
+          "Flutter"
         ],
-        "source_code_url": "https://upstatement.com",
-        "live_url": "https://upstatement.com"
+        "source_code_url": "https://github.com/rifathossain82/timeline-manager",
+        "live_url": ""
       },
       {
-        "title": "Time to Have More Fun",
-        "description": "A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS",
+        "title": "QRBD SMS",
+        "description": "A middleware to send SIM-based SMS via REST API from your phone to any number.",
         "platforms": [
-          "VS Code",
-          "Sublime Text"
+          "Flutter SMS",
+          "Pusher + Laravel Echo",
+          "Flutter Local Notifications",
+          "Flutter Background Service"
         ],
-        "source_code_url": "https://upstatement.com",
-        "live_url": "https://upstatement.com"
+        "source_code_url": "",
+        "live_url": ""
       },
       {
-        "title": "Integrating Algolia Search with WordPress Multisite",
-        "description": "Building a custom multisite compatible WordPress plugin to build global search with Algolia",
+        "title": "DMS",
+        "description": "A medical service provider android app build with Flutter",
         "platforms": [
-          "VS Code",
-          "Sublime Text"
+          "REST API's",
+          "Firebase",
+          "Flutter Local Notifications"
         ],
-        "source_code_url": "https://upstatement.com",
-        "live_url": "https://upstatement.com"
+        "source_code_url": "",
+        "live_url": ""
       },
       {
-        "title": "Time to Have More Fun",
-        "description": "A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS",
+        "title": "Habiganj Agricultural University Mobile App",
+        "description": "A demo app built with Flutter & REST APIs, now in testing phase.",
         "platforms": [
-          "VS Code",
-          "Sublime Text"
+          "Dart",
+          "Flutter",
+          "REST APIs"
         ],
-        "source_code_url": "https://upstatement.com",
-        "live_url": "https://upstatement.com"
+        "source_code_url": "",
+        "live_url": ""
       },
       {
-        "title": "Integrating Algolia Search with WordPress Multisite",
-        "description": "Building a custom multisite compatible WordPress plugin to build global search with Algolia",
+        "title": "Fake E-commerce App",
+        "description": "A learning-purpose app built with Flutter & fake eCommerce APIs using clean architecture.",
         "platforms": [
-          "VS Code",
-          "Sublime Text"
+          "Dart",
+          "Flutter",
+          "REST APIs",
+          "Bloc"
         ],
-        "source_code_url": "https://upstatement.com",
-        "live_url": "https://upstatement.com"
+        "source_code_url": "https://github.com/rifathossain82/Fake_Ecommerce_App",
+        "live_url": "https://private-user-images.githubusercontent.com/88751768/242267523-870a8395-1c64-487e-bc84-62566e52131a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ2OTAyNTEsIm5iZiI6MTc0NDY4OTk1MSwicGF0aCI6Ii84ODc1MTc2OC8yNDIyNjc1MjMtODcwYTgzOTUtMWM2NC00ODdlLWJjODQtNjI1NjZlNTIxMzFhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDE1VDA0MDU1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUxNTA4NDcyZGIxMGM0OTJjMTZlOWFiY2M1ZThhYzkzYzA0YjMyZTc2NzY3OGFlYjdjMGEwNWRjZjA0ZDA2OTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.G69f14_Y7qjWLFY8BMSXqHq0Aszizr0nAQsM0LFeMQc"
       },
       {
-        "title": "Time to Have More Fun",
-        "description": "A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS",
+        "title": "Zamzam Travels",
+        "description": "It's a Flutter-built Umrah ticket booking app offering a smooth and user-friendly experience.",
         "platforms": [
-          "VS Code",
-          "Sublime Text"
+          "Dart",
+          "Flutter",
+          "REST APIs",
+          "GetX"
         ],
-        "source_code_url": "https://upstatement.com",
-        "live_url": "https://upstatement.com"
+        "source_code_url": "",
+        "live_url": ""
       },
       {
-        "title": "Integrating Algolia Search with WordPress Multisite",
-        "description": "Building a custom multisite compatible WordPress plugin to build global search with Algolia",
+        "title": "Flutter Web Portfolio",
+        "description": "A portfolio website built with Flutter Web to showcase my work and projects.",
         "platforms": [
-          "VS Code",
-          "Sublime Text"
+          "Dart",
+          "Flutter",
+          "Provider"
         ],
-        "source_code_url": "https://upstatement.com",
-        "live_url": "https://upstatement.com"
-      },
-      {
-        "title": "Time to Have More Fun",
-        "description": "A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS",
-        "platforms": [
-          "VS Code",
-          "Sublime Text"
-        ],
-        "source_code_url": "https://upstatement.com",
-        "live_url": "https://upstatement.com"
+        "source_code_url": "",
+        "live_url": "https://rifathossain82.github.io/#/"
       }
     ]
   }
