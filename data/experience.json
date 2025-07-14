@@ -28,6 +28,21 @@
         "Utilized GetX State Management for efficient app functionality.",
         "Integrated features like Bulk SMS, Invoice Printing, and Social Login (Facebook, Google, Twitter)."
       ]
+    },
+    {
+      "title": "Flutter Developer - Intern",
+      "company": "Skill Based IT",
+      "company_url": "https://www.linkedin.com/company/sbit-com-bd/",
+      "duration": "September 2021 - February 2022",
+      "location": "Feni",
+      "description": [
+        "Industrial Attachment Program (After 7th Semester Diploma Completion)",
+        "Built and deployed 2+ real-world cross-platform apps using Flutter",
+        "Applied state management (GetX), improving feature efficiency by 30%",
+        "Developed clean, responsive UIs, reducing design-related bugs by 40%",
+        "Resolved 50+ issues during testing, cutting app crash rates by 25%",
+        "Strengthened skills in app lifecycle, clean code, and debugging"
+      ]
     }
   ]
 }
